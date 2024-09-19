@@ -1,8 +1,5 @@
 # Projeto de Assistência Técnica em Java
 
-
-README - Projeto de Assistência Técnica em Java
-
 Bem-vindo ao projeto de assistência técnica desenvolvido em Java. Este sistema foi criado para auxiliar na gestão de uma assistência técnica, proporcionando uma plataforma para registrar, acompanhar e gerenciar as atividades relacionadas ao reparo e manutenção de equipamentos.
 
 Funcionalidades Principais:
